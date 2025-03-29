@@ -1,5 +1,8 @@
-## Hi there 👋
+👋 Hi, I’m Nimrath! I’m a CS student at Georgia Tech passionate about building scalable, impactful tech—especially at the intersection of AI, sustainability, and user-first design.
 
+🛠️ I work across the stack with Java, React, Node.js, Python, and PostgreSQL. Currently contributing to a power outage analytics project through GT’s VIP program and mentoring 100+ students as a TA for CS 1331.
+
+💡 Always building, always learning. Outside of tech, I enjoy scrapbooking and sci-fi films.
 <!--
 **nimrathk/nimrathk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
