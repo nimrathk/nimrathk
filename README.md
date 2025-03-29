@@ -4,11 +4,11 @@
 
 💡 Always building, always learning. Outside of tech, I enjoy scrapbooking and sci-fi films.
 
+<!--
 ### 📊 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nimrathk&layout=compact&theme=tokyonight)
 
-<!--
 **nimrathk/nimrathk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
