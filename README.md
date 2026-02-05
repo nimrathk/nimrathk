@@ -1,8 +1,6 @@
-👋 Hi, I’m Nimrath! I’m a CS student at Georgia Tech passionate about building scalable, impactful tech- especially at the intersection of AI, sustainability, and user-first design.
+👋 Hi, I’m Nimrath! I’m a CS student at Georgia Tech passionate about building scalable, impactful tech- especially at the intersection of AI, infrastructure, and user-first design.
 
-🛠️ I work across the stack with Python, Java, React, Node.js, and SQL. Currently contributing to a power outage analytics project through GT’s VIP program and mentoring 100+ students as a TA for CS 1331 (Object-Oriented Programming).
-
-💡 Always building, always learning. Outside of tech, I enjoy scrapbooking and sci-fi films.
+💡 Outside of tech, I enjoy scrapbooking and sci-fi films.
 
 <!--
 ### 📊 GitHub Stats
