@@ -1,6 +1,6 @@
 👋 Hi, I’m Nimrath! I’m a CS student at Georgia Tech passionate about building scalable, impactful tech- especially at the intersection of AI, infrastructure, and user-first design.
 
-💡 Outside of tech, I enjoy scrapbooking and sci-fi films.
+💡 Outside of tech, I enjoy scrapbooking and watching films.
 
 <!--
 ### 📊 GitHub Stats
